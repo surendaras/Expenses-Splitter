@@ -71,7 +71,7 @@ Imagine a trip where three friends, Alice, Bob, and Charlie, share various expen
 
 ## Screenshots
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/ca617c59-7968-4f5d-a9c4-97f3671b3fb6">
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/cc79ddca-77b6-470d-bd0d-6806e74cff62">
+
 
 
 ## Technologies Used
@@ -83,7 +83,7 @@ Imagine a trip where three friends, Alice, Bob, and Charlie, share various expen
 This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.
 
 ## Contact
-For further questions or feedback, please contact [vantough@gmail.com](mailto:vantough@gmail.com).
+For further questions or feedback, please contact [surendrak61002@gmail.com](mailto:surendrak61002@gmail.com).
 
 ---
 
